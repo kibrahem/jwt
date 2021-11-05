@@ -1,0 +1,10 @@
+auth : من انت 
+authorization : صالحيات
+JSON Web Token
+ (Header + Payload + Signature) :-
+
+secure api : 
+token :
+red : header (data jwt)
+payload : data 
+increption :
